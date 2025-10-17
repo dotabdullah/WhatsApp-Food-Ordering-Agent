@@ -1,5 +1,3 @@
-# WhatsApp-Food-Ordering-Agent
-
 # 🍴 Food Ordering WhatsApp Automated Agent  
 
 An intelligent **WhatsApp Food Ordering System** built with **n8n** that automates order management, inventory checks, and customer interactions — all through WhatsApp.  
@@ -86,11 +84,14 @@ GOOGLE_SHEET_ID	Google Sheet ID containing orders, inventory, and FAQs
 🖼️ Example Welcome Message
 
 Welcome to Delicious Restaurant! 🍴  
+
 How can I help you today?  
 - Place an Order  
 - FAQ  
 - Check Items / Stock  
+
 📞 Contact
+
 Developer: Abdullah Shahzad
 📧 Email: support@xpertswp.com
 📧 Email: shahzadabdullah37@gmail.com
