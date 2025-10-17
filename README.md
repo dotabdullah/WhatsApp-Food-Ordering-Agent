@@ -90,6 +90,8 @@ How can I help you today?
 - FAQ  
 - Check Items / Stock  
 
+---
+
 📞 Contact
 
 Developer: Abdullah Shahzad
