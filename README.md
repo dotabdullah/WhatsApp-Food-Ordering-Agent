@@ -94,10 +94,10 @@ How can I help you today?
 
 📞 Contact
 
-Developer: Abdullah Shahzad
-📧 Email: support@xpertswp.com
-📧 Email: shahzadabdullah37@gmail.com
-🌐 Website: https://xpertswp.com
+- Developer: Abdullah Shahzad
+- 📧 Email: support@xpertswp.com
+- 📧 Email: shahzadabdullah37@gmail.com
+- 🌐 Website: https://xpertswp.com
 
 💡 If you need a custom automation system for your business — Let’s collaborate!
 
